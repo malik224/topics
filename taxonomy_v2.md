@@ -312,41 +312,7 @@
 | 534 | /Internet & Telecom/Web Services/Cloud Storage                                                           |
 | 535 | /Internet & Telecom/Web Services/Search Engine Optimization & Marketing                                  |
 | 224 | /Internet & Telecom/Web Services/Web Design & Development                                                |
-| 536 | /Internet & Telecom/Web Services/Web Hosting & Domain Registration                                       |
-| 226 | /Jobs & Education                                                                                        |
-| 227 | /Jobs & Education/Education                                                                              |
-| 537 | /Jobs & Education/Education/Business Education                                                           |
-| 229 | /Jobs & Education/Education/Colleges & Universities                                                      |
-| 538 | /Jobs & Education/Education/Computer Education                                                           |
-| 230 | /Jobs & Education/Education/Distance Learning                                                            |
-| 231 | /Jobs & Education/Education/Early Childhood Education                                                    |
-| 277 | /Jobs & Education/Education/Foreign Language Study                                                       |
-| 539 | /Jobs & Education/Education/Health Education & Medical Training                                          |
-| 233 | /Jobs & Education/Education/Homeschooling                                                                |
-| 540 | /Jobs & Education/Education/Legal Education                                                              |
-| 541 | /Jobs & Education/Education/Open Online Courses                                                          |
-| 542 | /Jobs & Education/Education/Primary & Secondary Schooling (K-12)                                         |
-| 543 | /Jobs & Education/Education/Private Tutoring Services                                                    |
-| 544 | /Jobs & Education/Education/School Supplies & Classroom Equipment                                        |
-| 234 | /Jobs & Education/Education/Standardized & Admissions Tests                                              |
-| 545 | /Jobs & Education/Education/Study Abroad                                                                 |
-| 546 | /Jobs & Education/Education/Visual Arts & Design Education                                               |
-| 547 | /Jobs & Education/Internships                                                                            |
-| 236 | /Jobs & Education/Jobs                                                                                   |
-| 237 | /Jobs & Education/Jobs/Career Resources & Planning                                                       |
-| 238 | /Jobs & Education/Jobs/Job Listings                                                                      |
-| 548 | /Jobs & Education/Jobs/Job Listings/Accounting & Finance Jobs                                            |
-| 549 | /Jobs & Education/Jobs/Job Listings/Clerical & Administrative Jobs                                       |
-| 550 | /Jobs & Education/Jobs/Job Listings/Education Jobs                                                       |
-| 551 | /Jobs & Education/Jobs/Job Listings/Executive & Management Jobs                                          |
-| 552 | /Jobs & Education/Jobs/Job Listings/Government & Public Sector Jobs                                      |
-| 553 | /Jobs & Education/Jobs/Job Listings/Health & Medical Jobs                                                |
-| 554 | /Jobs & Education/Jobs/Job Listings/IT & Technical Jobs                                                  |
-| 555 | /Jobs & Education/Jobs/Job Listings/Legal Jobs                                                           |
-| 556 | /Jobs & Education/Jobs/Job Listings/Retail Jobs                                                          |
-| 557 | /Jobs & Education/Jobs/Job Listings/Sales & Marketing Jobs                                               |
-| 558 | /Jobs & Education/Jobs/Job Listings/Temporary & Seasonal Jobs                                            |
-| 559 | /Jobs & Education/Jobs/Resumes & Portfolios                                                              |
+| 536 | /Internet & Telecom/Web Services/Web Hosting & Domain Registration                                                                    |
 | 239 | /Law & Government                                                                                        |
 | 560 | /Law & Government/Labor & Employment Law                                                                 |
 | 242 | /Law & Government/Legal Services                                                                         |
@@ -358,11 +324,7 @@
 | 250 | /Online Communities                                                                                      |
 | 253 | /Online Communities/Social Networks                                                                      |
 | 254 | /People & Society                                                                                        |
-| 562 | /People & Society/Charity & Philanthropy                                                                 |
-| 258 | /People & Society/Parenting                                                                              |
-| 259 | /People & Society/Parenting/Adoption                                                                     |
-| 260 | /People & Society/Parenting/Babies & Toddlers                                                            |
-| 563 | /People & Society/Parenting/Child Care                                                                   |
+| 562 | /People & Society/Charity & Philanthropy                                                                                                   |
 | 263 | /Pets & Animals                                                                                          |
 | 264 | /Pets & Animals/Pet Food & Pet Care Supplies                                                             |
 | 265 | /Pets & Animals/Pets                                                                                     |
